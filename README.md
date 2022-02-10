@@ -3,7 +3,11 @@
 
 ALFAE course is an overview on the topics of bias and fairness in data, models, and algorithms, and on the associated ethical and accountability issues. **This repository** contains exercises for [Spring semester 2022](https://learnit.itu.dk/local/coursebase/view.php?ciid=827). 
 
-## Team:
+### Lectures:
+1. Introduction (4th February 2022)
+2. Bias sources (11th February 2022)
+
+### Team:
 * [Roberta Sinatra](mailto:rsin@itu.dk) (Course manager & Teacher)
 * [Martin Aumüller](mailto:maau@itu.dk) (Teacher)
 * [Pawel Grabarczyk](mailto:pawg@itu.dk) (Teacher)
