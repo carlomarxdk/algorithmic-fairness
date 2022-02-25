@@ -7,6 +7,7 @@ ALFAE course is an overview on the topics of bias and fairness in data, models, 
 1. Introduction (4th February 2022)
 2. Bias sources (11th February 2022)
 3. Fairness Merics (18th February 2022)
+4. Explainability 1 (25th February 2022)
 
 ### Team:
 * [Roberta Sinatra](mailto:rsin@itu.dk) (Course manager & Teacher)
