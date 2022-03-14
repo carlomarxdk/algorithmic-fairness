@@ -9,6 +9,7 @@ ALFAE course is an overview on the topics of bias and fairness in data, models, 
 3. Fairness Merics (18th February 2022)
 4. Explainability 1: White-Box Models (25th February 2022)
 5. Explainability 2: Black-Box Models (4th March 2022)
+6. Debiasing Models (11th March 2022) - *Content is on LearnIT*
 
 ### Team:
 * [Roberta Sinatra](mailto:rsin@itu.dk) (Course manager & Teacher)
