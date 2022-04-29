@@ -14,6 +14,9 @@ ALFAE course is an overview on the topics of bias and fairness in data, models, 
 8. Robustness of Models (25th March 2022) - *Content is on LearnIT*
 9. The Ethics of Fairness (1st April 2022) - *Content is on LearnIT*
 10. Auditing Algorithms (8th April 2022)
+11. The dream of AI. From GOFAI to modern AI (22nd April 2022) - *Content is on LearnIT*
+12. Philosophy of Big Data (29th April 2022) - *Content is on LearnIT*
+13. Recap (6th May 2022)
 
 ### Team:
 * [Roberta Sinatra](mailto:rsin@itu.dk) (Course manager & Teacher)
